@@ -1,7 +1,7 @@
 # Hi, I'm Nihal Maskey 👋
 
 [![Website](https://img.shields.io/badge/Website-nihal.com.np-blue?style=flat&logo=google-chrome)](https://nihal.com.np)
-[![X](https://img.shields.io/badge/X-@nihalmaskey-000000?style=flat&logo=x)
+[![X](https://img.shields.io/badge/X-@nihalmaskey-000000?style=flat&logo=x)](https://x.com/nihalmaskey)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maskeynihal-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/maskeynihal)
 [![Email](https://img.shields.io/badge/Email-contact@nihal.com.np-D14836?style=flat&logo=gmail)](mailto:contact@nihal.com.np)
 
@@ -21,6 +21,15 @@ Building scalable, secure, and efficient systems with 5+ years of experience in 
 - Architecting scalable healthcare solutions
 - Leading engineering teams across US, Australia, and Nepal
 - AWS infrastructure design for HIPAA/SOC2 compliance
+
+---
+
+## 📈 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/city-dark.svg">
+  <img alt="Contribution skyline: one building per day" src="assets/city-light.svg">
+</picture>
 
 ---
 
