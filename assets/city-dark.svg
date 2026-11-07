@@ -9,7 +9,7 @@
 @media (prefers-reduced-motion:reduce){.b{animation:none;transform:none}.f{animation:none;opacity:1}.l{animation:none;stroke-dashoffset:0}}
 </style>
 <rect width="100%" height="100%" rx="8" fill="#0d1117"/>
-<text x="20" y="34" font-size="22" font-weight="700" fill="#e6edf3">2,860</text>
+<text x="20" y="34" font-size="22" font-weight="700" fill="#e6edf3">2,861</text>
 <text x="20" y="52" font-size="12" fill="#8b949e">contributions, one building per day</text>
 <g class="b" style="animation-delay:0.21s;transform-origin:62px 260px"><title>2025-11-02: 0</title><polygon points="70,260 75,256 75,254.5 70,258.5" fill="#101318"/><rect x="62" y="258.5" width="8" height="1.5" fill="#161b22"/><polygon points="62,258.5 70,258.5 75,254.5 67,254.5" fill="#1b2129"/></g>
 <g class="b" style="animation-delay:0.23s;transform-origin:72px 260px"><title>2025-11-09: 0</title><polygon points="80,260 85,256 85,254.5 80,258.5" fill="#101318"/><rect x="72" y="258.5" width="8" height="1.5" fill="#161b22"/><polygon points="72,258.5 80,258.5 85,254.5 77,254.5" fill="#1b2129"/></g>
@@ -381,6 +381,7 @@
 <g class="b" style="animation-delay:1.08s;transform-origin:510px 290px"><title>2026-10-17: 0</title><polygon points="518,290 523,286 523,284.5 518,288.5" fill="#101318"/><rect x="510" y="288.5" width="8" height="1.5" fill="#161b22"/><polygon points="510,288.5 518,288.5 523,284.5 515,284.5" fill="#1b2129"/></g>
 <g class="b" style="animation-delay:1.10s;transform-origin:520px 290px"><title>2026-10-24: 0</title><polygon points="528,290 533,286 533,284.5 528,288.5" fill="#101318"/><rect x="520" y="288.5" width="8" height="1.5" fill="#161b22"/><polygon points="520,288.5 528,288.5 533,284.5 525,284.5" fill="#1b2129"/></g>
 <g class="b" style="animation-delay:1.12s;transform-origin:530px 290px"><title>2026-10-31: 17</title><polygon points="538,290 543,286 543,255.2580776548752 538,259.2580776548752" fill="#0a311e"/><rect x="530" y="259.2580776548752" width="8" height="30.74192234512481" fill="#0e4429"/><polygon points="530,259.2580776548752 538,259.2580776548752 543,255.2580776548752 535,255.2580776548752" fill="#115332"/></g>
+<g class="b" style="animation-delay:1.14s;transform-origin:540px 290px"><title>2026-11-07: 1</title><polygon points="548,290 553,286 553,278.54398864920677 548,282.54398864920677" fill="#0a311e"/><rect x="540" y="282.54398864920677" width="8" height="7.456011350793257" fill="#0e4429"/><polygon points="540,282.54398864920677 548,282.54398864920677 553,278.54398864920677 545,278.54398864920677" fill="#115332"/></g>
 <polyline class="l" style="animation-delay:2.18s" points="557.5,137 557.5,106" fill="none" stroke="#8b949e" stroke-width="1"/>
 <circle class="f" style="animation-delay:2.18s" cx="557.5" cy="137" r="2" fill="#e6edf3"/>
 <text class="f" style="animation-delay:2.68s" x="563.5" y="100" font-size="12" font-weight="600" text-anchor="end" fill="#e6edf3">best day: 304 on 2026-10-28</text>
